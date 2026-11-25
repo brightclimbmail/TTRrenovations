@@ -1,0 +1,18 @@
+[
+  { "slug": "brookfield-ct", "name": "Brookfield", "tier": 1, "cluster": "Home Base", "hoods": ["Brookfield Center", "Candlewood Lake"] },
+  { "slug": "new-milford-ct", "name": "New Milford", "tier": 1, "cluster": "Candlewood & North", "hoods": [] },
+  { "slug": "new-fairfield-ct", "name": "New Fairfield", "tier": 1, "cluster": "Candlewood & North", "hoods": ["Ball Pond"] },
+  { "slug": "danbury-ct", "name": "Danbury", "tier": 1, "cluster": "Danbury & Bethel", "hoods": ["Ridgebury"] },
+  { "slug": "bethel-ct", "name": "Bethel", "tier": 1, "cluster": "Danbury & Bethel", "hoods": [] },
+  { "slug": "newtown-ct", "name": "Newtown", "tier": 1, "cluster": "Newtown", "hoods": ["Sandy Hook"] },
+  { "slug": "ridgefield-ct", "name": "Ridgefield", "tier": 1, "cluster": "Ridgefield & Redding", "hoods": ["West Mountain"] },
+  { "slug": "redding-ct", "name": "Redding", "tier": 1, "cluster": "Ridgefield & Redding", "hoods": ["West Redding"] },
+  { "slug": "sherman-ct", "name": "Sherman", "tier": 2 },
+  { "slug": "southbury-ct", "name": "Southbury", "tier": 2 },
+  { "slug": "monroe-ct", "name": "Monroe", "tier": 2 },
+  { "slug": "wilton-ct", "name": "Wilton", "tier": 2 },
+  { "slug": "weston-ct", "name": "Weston", "tier": 2 },
+  { "slug": "easton-ct", "name": "Easton", "tier": 2 },
+  { "slug": "new-canaan-ct", "name": "New Canaan", "tier": 2 },
+  { "slug": "westport-ct", "name": "Westport", "tier": 2 }
+]

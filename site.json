@@ -1,0 +1,22 @@
+{
+  "name": "TTR Renovations",
+  "legalName": "[LLC legal name — confirm]",
+  "domain": "https://ttrreno.com",
+  "phone": "(914) 879-4395",
+  "phoneHref": "+19148794395",
+  "email": "info@ttrreno.com",
+  "city": "Brookfield",
+  "state": "CT",
+  "region": "Western Connecticut",
+  "owner": { "name": "Michael DeBartolo", "title": "Founder" },
+  "hic": null,
+  "insured": null,
+  "freeConsultation": null,
+  "formEndpoint": "FORMSPREE_ENDPOINT",
+  "ga4Id": "",
+  "gscVerification": "",
+  "googleReviewUrl": "",
+  "social": { "facebook": "", "instagram": "" },
+  "showPlaceholders": true,
+  "customDomainLive": false
+}
